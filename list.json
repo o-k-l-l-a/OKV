@@ -1,16 +1,20 @@
-[
-  {
-    "name": "🇳🇱 Netherlands",
-    "country": "Netherlands",
-    "flag": "🇳🇱",
-    "protocol": "VLESS",
-    "link": "vless://7d5061c1-4e98-4498-b0ff-f144a6b6a4f2@45.87.41.20:2082?encryption=none&fp=chrome&pbk=ebh0b60yqnjz0QNM2E6BM2ITqmmE7IpEtxLnsRZKFGA&security=reality&sid=370d30&sni=search.amd.com&spx=%2Fdde35c9d111a298&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands"
-  },
-  {
-    "name": "🇹🇷 Turkey",
-    "country": "Turkey",
-    "flag": "🇹🇷",
-    "protocol": "VLESS",
-    "link": "vless://9aa92401-4d38-4f74-d63d-14b81cd1d193@206.1.100.55:21041?type=tcp&encryption=none&security=none#%F0%9F%87%B9%F0%9F%87%B7%20Turkey"
-  }
-]
+{
+  "algorithm": "AES-256-GCM",
+  "key": "yEsw1KGMOrTvjIyJ2Q-D3NrtoOrmXFb-ruB7WCE6xg4",
+  "configs": [
+    {
+      "name": "🇳🇱 Netherlands",
+      "country": "Netherlands",
+      "flag": "🇳🇱",
+      "protocol": "VLESS",
+      "encrypted_link": "80lsCPDEjsgrGfp2SdH1QCzMXz99cFg_tuFRTxrKvIyNHtrilFuF4cAw3GHApfmShjrLZ2N2F7CKGBhnhi8cv5EZBvE-b2mQ371gAsxyQB95iEa5aCHT_yL1N2MaZzHKJSuEAtXXulFYSEXiMlBUr4I72aqVa76pClTwm7JUK3TO38kWwP-kb0bvT21nMFGiRj0rYEAt96EZ7cmiqweAB1bLw-th6HlF2Wd5n8w6LnkbWvFNfonboxpjciX-paUXTi7X1ZsLgDeSrBrD0JsZ6YyEub3uN6bpohToQ1Y5wombjB08Eri_HfEGJAXQaCoPbrg9SWuMPOJZpkI8zihwpVTp1se1HTTeTQoKIVeOqc3lq_w8Wd41bCE"
+    },
+    {
+      "name": "🇹🇷 Turkey",
+      "country": "Turkey",
+      "flag": "🇹🇷",
+      "protocol": "VLESS",
+      "encrypted_link": "_xIZyryW1aXIHlzr4Xck0AR7IC8SH2stJ12a0QJHwWO1jXnYZExZZjGXCEx_b1cd5I_8bfKknLSZYCjwVuKgCs_Chj-chtULNVlUGnN1LjqnRUL8JTLdaSn3jETFcOv9liyTGIEVL7rqYJrQ3nmYP0apIoHkoBA_6Slhi7816lKbomfasFLC05PtIs2ZXmPAx4-JDPPyW1wEpFKWw-WU7hzPSvY"
+    }
+  ]
+}
