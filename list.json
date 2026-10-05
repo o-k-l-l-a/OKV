@@ -1,0 +1,16 @@
+[
+  {
+    "name": "🇳🇱 هلند",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "protocol": "VLESS",
+    "link": "vless://7d5061c1-4e98-4498-b0ff-f144a6b6a4f2@45.87.41.20:2082?encryption=none&fp=chrome&pbk=ebh0b60yqnjz0QNM2E6BM2ITqmmE7IpEtxLnsRZKFGA&security=reality&sid=370d30&sni=search.amd.com&spx=%2Fdde35c9d111a298&type=tcp#🇳🇱%20هلند"
+  },
+  {
+    "name": "🇹🇷 ترکیه",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "protocol": "VLESS",
+    "link": "vless://9aa92401-4d38-4f74-d63d-14b81cd1d193@206.1.100.55:21041?type=tcp&encryption=none&security=none#🇹🇷%20ترکیه"
+  }
+]
